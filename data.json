@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "name":"GRAHITHA",
+        "role":"student",
+        "email":"grahitha.eda@gmail.com",
+        "mobile":"+9875632432",
+        "Education":[
+            {
+                "degree":"ssc",
+                "percentage":"97"
+            },
+            {
+                "degree":"INTER",
+                "percentage":96.9
+            },
+            {
+                "degree":"B-TECH",
+                "percentage":8.5
+            }
+        ]
+    }
+}

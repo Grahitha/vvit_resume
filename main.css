@@ -1,0 +1,23 @@
+.main{
+    background-color: rgb(193, 219, 253);
+    width:100;
+    justify-content: space-around;
+    display:flex;
+    flex-wrap:wrap;
+    padding-bottom: 50px;
+}
+.side1,.side2{
+    width:40%;
+    height:30%;
+    text-align: center;
+    background-color: aquamarine;
+    color: white;
+    text-align:center;
+    background: cornflowerblue;
+    margin-bottom:10%;
+    border-radius:7% 0% ;
+
+}
+img{
+    border-radius: 50%
+}
